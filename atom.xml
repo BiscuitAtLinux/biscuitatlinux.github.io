@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Biscuit@Linux</title>
+  <subtitle>Linux爱好者, PHP码农</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://biscuitatlinux.github.io/"/>
+  <updated>2017-07-04T12:07:55.000Z</updated>
+  <id>https://biscuitatlinux.github.io/</id>
+  
+  <author>
+    <name>Biscuit@Linux</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://biscuitatlinux.github.io/2017/07/04/hello-world/"/>
+    <id>https://biscuitatlinux.github.io/2017/07/04/hello-world/</id>
+    <published>2017-07-04T12:07:55.000Z</published>
+    <updated>2017-07-04T12:07:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到Biscuit@Linux的站点，目前还没什么内容，先来占个坑</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;欢迎来到Biscuit@Linux的站点，目前还没什么内容，先来占个坑&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
